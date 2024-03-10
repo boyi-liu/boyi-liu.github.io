@@ -6,7 +6,7 @@ author_profile: true
 nav: cnnavi
 ---
 
-这是 Boyi Liu, 北航计算机博士一年级
+这是 Boyi Liu, 北航计算机博士
 
 Education
 ======

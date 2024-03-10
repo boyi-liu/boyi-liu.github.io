@@ -6,7 +6,7 @@ author_profile: true
 include.nav: cnnavi
 ---
 
-这是 Boyi Liu, Federated Learning
+这是 Boyi Liu, 北航
 
 Education
 ======

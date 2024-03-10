@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "个人简介"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /cn/
   - /cn.html

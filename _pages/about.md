@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,3 +8,15 @@ redirect_from:
 ---
 
 This is Boyi Liu
+
+# Education
++ BUAA, Ph.D
++ BUAA, B.E.
+
+# News
++ 1234
++ 2234
+
+# Publications
++ 1234
++ 2234

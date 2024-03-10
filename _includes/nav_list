@@ -1,5 +1,5 @@
 {% include base_path %}
-{% assign navigation = site.data.navigation[page.nav] %}
+{% assign navigation = site.data.navigation[include.nav] %}
 
 <nav class="nav__list">
   {% if page.sidebar.title %}<header><h4 class="nav__title" style="padding: 0;">{{ page.sidebar.title }}</h4></header>{% endif %}
@@ -26,7 +26,7 @@
             {% if child.url contains "://" %}
               {% assign domain = "" %}
             {% else %}
-              {% assign domain = page.url %}
+              {% assign domain = base_path %}
             {% endif %}
 
             {% comment %}set "active" class on current page{% endcomment %}

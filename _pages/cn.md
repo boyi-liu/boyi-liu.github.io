@@ -3,10 +3,10 @@ layout: archive
 title: "个人简介"
 permalink: /cn/
 author_profile: true
-include.nav: cnnavi
+nav: cnnavi
 ---
 
-这是 Boyi Liu, 北航
+这是 Boyi Liu, 北航计算机
 
 Education
 ======

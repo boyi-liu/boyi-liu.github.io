@@ -3,10 +3,10 @@ layout: archive
 title: "个人简介"
 permalink: /cn/
 author_profile: true
-nav: cnnavi
+include.nav: cnnavi
 ---
 
-这是 Boyi Liu
+这是 Boyi Liu, Federated Learning
 
 Education
 ======

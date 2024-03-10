@@ -8,6 +8,15 @@ main:
 
   - title: "Publications"
     url: /#pubclications/
+
+  - title: "Teaching"
+    url: /#teaching/
+
+  - title: "Professional Services"
+    url: /#pros/
+
+  - title: "Students"
+    url: /#students/
     
   - title: "中文版"
     url: /cn/

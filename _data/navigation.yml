@@ -4,41 +4,41 @@ main:
     url: /about/
 
   - title: "Education"
-    url: #education
+    url: /#education
 
   - title: "Publications"
-    url: #pubclications
+    url: /#pubclications
 
   - title: "Teaching"
-    url: #teaching
+    url: /#teaching
 
   - title: "Professional Services"
-    url: #professional-services
+    url: /#professional-services
 
   - title: "Students"
-    url: #students
+    url: /#students
     
   - title: "中文版"
     url: /cn/
 
 cnnavi:
   - title: "个人信息"
-    url: /about/
+    url: /cn/
 
   - title: "教育经历"
-    url: /#education
+    url: /cn/#education
 
   - title: "论著"
-    url: /#pubclications
+    url: /cn/#pubclications
 
   - title: "教学"
-    url: /#teaching
+    url: /cn/#teaching
 
   - title: "专业任职"
-    url: /#professional-services
+    url: /cn/#professional-services
 
   - title: "学生"
-    url: /#students
+    url: /cn/#students
     
   - title: "English Version"
-    url: /cn/
+    url: /about/

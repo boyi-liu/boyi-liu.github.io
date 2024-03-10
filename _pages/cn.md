@@ -3,7 +3,7 @@ layout: archive
 title: "个人简介"
 permalink: /cn/
 author_profile: true
-navigation: cnnavi
+nav: cnnavi
 ---
 
 这是 Boyi Liu

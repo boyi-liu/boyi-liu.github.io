@@ -4,19 +4,19 @@ main:
     url: /about/
 
   - title: "Education"
-    url: /#education
+    url: #education
 
   - title: "Publications"
-    url: /#pubclications
+    url: #pubclications
 
   - title: "Teaching"
-    url: /#teaching
+    url: #teaching
 
   - title: "Professional Services"
-    url: /#professional-services
+    url: #professional-services
 
   - title: "Students"
-    url: /#students
+    url: #students
     
   - title: "中文版"
     url: /cn/

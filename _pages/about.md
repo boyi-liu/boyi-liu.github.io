@@ -9,11 +9,13 @@ redirect_from:
 
 This is Boyi Liu
 
-# Education
+Education
+======
 + BUAA, Ph.D
 + BUAA, B.E.
 
-# News
+News
+======
 + 1234
 + 2234
 + 3234
@@ -23,7 +25,8 @@ This is Boyi Liu
 + 7234
 + 8234
 
-# Awards
+Awards
+======
 + 1234
 + 2234
 + 3234
@@ -33,7 +36,8 @@ This is Boyi Liu
 + 7234
 + 8234
 
-# Publications
+Publications
+======
 + 1234
 + 2234
 + 3234
@@ -42,3 +46,7 @@ This is Boyi Liu
 + 6234
 + 7234
 + 8234
+
+Teaching
+======
+This
